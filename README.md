@@ -8,6 +8,8 @@
 
 [Repositorio com os emojis](https://github.com/ikatyang/emoji-cheat-sheet)
 
+[Guia do Markdown](https://github.com/miltonnotforyou/Ola-mundo/blob/main/guia-markdown.pdf)
+
 #### Essa linha eu adicionei diretamente do ~~site!~~ Que impressionante!
 
 1. teste
