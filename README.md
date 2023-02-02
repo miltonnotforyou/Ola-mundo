@@ -48,4 +48,4 @@ if()
 ```
 
 
-adicionando co-autor
+aceitando co-autor
